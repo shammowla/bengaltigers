@@ -31,9 +31,11 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 at this point, you will have pushed the branch to your own fork of the bengaltigers repository, which lives on the rubyonrailstutor github user account, we now want to issue a pull request.
 
+https://help.github.com/articles/using-pull-requests
+
 # IMPORTANT NOTE 
 
-### development mode looks .config.yml looks like
+### development mode .config.yml looks like
 
 ```
 name: RubyonRailsTutor.com Bengal Tigers Cohort Page
@@ -43,7 +45,7 @@ pygments: true
 url: http://localhost:4000
 ```
 
-### production mode looks .config.yml looks like
+### production mode .config.yml looks like
 
 ```
 name: RubyonRailsTutor.com Bengal Tigers Cohort Page
