@@ -2,9 +2,9 @@
 
 - note that I'm logged in as 'jcdavison', he is a friend of ours in the class whose account I use to highlight the point of view of you the student, vice my rubyonrailstutor github account.
 
-> go to http://www.github.com/rubyonrailstutor/bengaltigers and click 'fork' in the top right corner, then follow the instructions to fork this repo to your own github profile
+> go to http://www.github.com/rubyonrailstutor/bengaltigers and click 'fork' in the top right corner, then follow the instructions to fork the repo to your own github profile
 
-> then grab the url of the newly forked repo, clone it locally
+> then grab the url of the newly forked repo, clone it locally, make sure to clone your fork, not the original :)
 
 > cd bengaltigers 
 
