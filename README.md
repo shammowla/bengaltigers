@@ -8,9 +8,7 @@
 
 > cd bengaltigers 
 
-> git checkout gh-pages
-
-### note, that for github pages, we will always work from the gh-pages branch, not master :)
+##### note, that for github pages, we will always work from the gh-pages branch, not master, if you need to `git checkout -b gh-pages` :)
 
 > gem install jekyll
 
