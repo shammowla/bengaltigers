@@ -1,3 +1,7 @@
+# http://rubyonrailstutor.github.io/bengaltigers
+
+
+
 ### to edit and run this blog locally 
 
 - note that I'm logged in as 'jcdavison', he is a friend of ours in the class whose account I use to highlight the point of view of you the student, vice my rubyonrailstutor github account.
