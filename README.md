@@ -2,8 +2,6 @@
 
 - note that I'm logged in as 'jcdavison', he is a friend of ours in the class whose account I use to highlight the point of view of you the student, vice my rubyonrailstutor github account.
 
-http://www.github.com/rubyonrailstutor/bengaltigers
-
 > go to http://www.github.com/rubyonrailstutor/bengaltigers and click 'fork' in the top right corner, then follow the instructions to fork this repo to your own github profile
 
 > then grab the url of the newly forked repo, clone it locally
@@ -35,17 +33,6 @@ at this point, you will have pushed the branch to your own fork of the bengaltig
 
 # IMPORTANT NOTE 
 
-when running this blog locally
-
-edit config.yml 
-
-make sure that url is set to http://localhost:4000/
-
-you can use the # mark to comment out each different line.  when you push the code back to github,
-make sure that you comment out the localhost line and uncomment the rubyonrailstutor.github.io/bengaltigers line
-
-so
-
 ### development mode looks .config.yml looks like
 
 ```
@@ -65,3 +52,12 @@ pygments: true
 url: http://rubyonrailstutor.github.io/bengaltigers
 # url: http://localhost:4000
 ```
+
+### So, when running this blog locally
+
+edit config.yml 
+
+make sure that url is set to http://localhost:4000/
+
+you can use the # mark to comment out each different line.  when you push the code back to github,
+make sure that you comment out the localhost line and uncomment the rubyonrailstutor.github.io/bengaltigers line
