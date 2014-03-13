@@ -13,7 +13,7 @@ Learning goals
 - do a real time git repo create, clone, edit, push session
 
 ### Teacher Todo's that arise during sessions
- 
+
 - reword and make previously published challenges better
 
 ### student todos
@@ -25,10 +25,10 @@ Learning goals
 
 # FEEDBACK QUESTIONS
 
-1. what did you expect from this session ? 
-2. what did you learn from this session ? 
-3. what could the teacher improve on ? 
-4. any random ideas that you had during the session ? 
+1. what did you expect from this session ?
+2. what did you learn from this session ?
+3. what could the teacher improve on ?
+4. any random ideas that you had during the session ?
 
 ### @agooniz feedback
 
@@ -36,7 +36,11 @@ Learning goals
 
 ### @jcdavison feedback
 
+it is tough to be in class in learn when I'm a virtual person
+
 ### @railstutor feedback
+
+I know that I need to have a good internet connection before class starts, but I didn't know that where I was yesterday was no good until class started, I don't want that to happen again.
 
 ### DEV RESOURCES
 
@@ -44,6 +48,6 @@ Learning goals
 - http://git-scm.com/docs/
 
 
-### remember, some of the point of my challenges is to teach you specific skills, some of the point of my challenges is to make you struggle, learn how to learn and learn how to solve your own problems with docs.  
+### remember, some of the point of my challenges is to teach you specific skills, some of the point of my challenges is to make you struggle, learn how to learn and learn how to solve your own problems with docs.
 
 ### DON'T FORGET TO ASK ME VERY PRECISE QUESTIONS WHEN YOU HIT A ROADBLOCK
