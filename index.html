@@ -10,7 +10,7 @@ title: Your New Jekyll Site
   <p>There are 10 structured sessions in the rubywhitebelt series.  Each session, the teacher will post the basic outline, learning goals and expectations.  Once the session has passed, the teacher will update this post with any important pieces of feedback or learning.  Student will give feedback on questions posed as well.</p>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
