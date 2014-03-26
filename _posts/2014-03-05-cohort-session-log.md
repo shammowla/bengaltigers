@@ -45,6 +45,8 @@ https://floobits.com/agooninz
 ### @agooniz feedback
 
 ### @shammowla feedback
+This is a last minute feedback :) 
+Need to finish the other issues!
 
 ### @jcdavison feedback
 

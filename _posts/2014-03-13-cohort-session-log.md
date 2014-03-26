@@ -37,6 +37,8 @@ From this course I do not expect to be the perfect ROR DEV but I do expect to un
 
 ### @shammowla feedback
 
+Feedback #2 ;)
+
 ### @jcdavison feedback
 
 it is tough to be in class in learn when I'm a virtual person
